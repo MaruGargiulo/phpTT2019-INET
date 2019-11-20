@@ -32,7 +32,7 @@ echo "<br><hr><br>";
 echo "Ya se ejecutaron " . $funcionesEjecutadas. " funciones";
 echo "<br><hr><br>";
 
-echo "<h3>Ejercicio 4</h3>";
+echo "<h3>Ejercicio 7</h3>";
 
 $frase = "Me encanta php, a mi también me encanta php!";
 echo "La primera ocurrencia de la palabra 'php' está en la posición " . strpos($frase, 'php');
